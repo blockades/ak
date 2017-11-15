@@ -20,17 +20,17 @@
   <div class="filters">
     <div class="col">
       <div>
-        <a href="?c=research"><?php snippet('circle') ?> Research</a>
+        <a href="<?php echo url() ?>?c=research"><?php snippet('circle') ?> Research</a>
       </div>
       <div>
-        <a href="?c=fieldwork"><?php snippet('triangle') ?> Fieldwork</a>
+        <a href="<?php echo url() ?>?c=fieldwork"><?php snippet('triangle') ?> Fieldwork</a>
       </div>
     </div>
 
     <div class="col">
       <?php foreach($subcats as $subcat): ?>
         <div>
-          <a href="?s=<?php echo $subcat ?>">
+          <a href="<?php echo url() ?>?s=<?php echo $subcat ?>">
             <span class="initial"><?php echo $subcat ?></span> <?php echo nameforsubcat($subcat); ?>
           </a>
         </div>
