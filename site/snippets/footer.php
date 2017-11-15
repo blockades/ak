@@ -41,11 +41,23 @@
   </div>
 
   <style>
+    body {
+      padding-bottom: 12rem;
+    }
+    .table-header {
+      position: sticky;
+      top: -1px;
+      background: white;
+    }
     .filters {
       border-top: 1px solid;
-      padding: 1.2rem 3.6rem;
-      margin: 1.2rem 0;
+      padding: 1.2rem 3.6rem 2.4rem;
       display: flex;
+      background: white;
+      position: fixed;
+      bottom: 0; left: 0;
+      width: 100%;
+      max-width: 1480px;
     }
     .filters .col {
       flex: 1;
