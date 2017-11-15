@@ -19,8 +19,8 @@
           <span class="category">
             <span class="shapes">
               <?php foreach($item->category()->split(',') as $cat): ?>
-                <? if($cat == 'research') snippet('circle'); ?>
-                <? if($cat == 'fieldwork') snippet('triangle'); ?>
+                <?php if($cat == 'research') snippet('circle'); ?>
+                <?php if($cat == 'fieldwork') snippet('triangle'); ?>
               <?php endforeach ?>
             </span>
             <?php echo $item->subcategory() ?>

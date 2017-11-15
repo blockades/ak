@@ -1,4 +1,4 @@
-<? if($page->isHomePage()): ?>
+<?php if($page->isHomePage()): ?>
 <?php
   $subcats = array_unique(page('work')->children()->visible()->toArray(function($p) {
     return $p->subcategory();
@@ -20,21 +20,21 @@
   <div class="filters">
     <div class="col">
       <div>
-        <a href="?c=research"><? snippet('circle') ?> Research</a>
+        <a href="?c=research"><?php snippet('circle') ?> Research</a>
       </div>
       <div>
-        <a href="?c=fieldwork"><? snippet('triangle') ?> Fieldwork</a>
+        <a href="?c=fieldwork"><?php snippet('triangle') ?> Fieldwork</a>
       </div>
     </div>
 
     <div class="col">
-      <? foreach($subcats as $subcat): ?>
+      <?php foreach($subcats as $subcat): ?>
         <div>
-          <a href="?s=<? echo $subcat ?>">
-            <span class="initial"><? echo $subcat ?></span> <?php echo nameforsubcat($subcat); ?>
+          <a href="?s=<?php echo $subcat ?>">
+            <span class="initial"><?php echo $subcat ?></span> <?php echo nameforsubcat($subcat); ?>
           </a>
         </div>
-      <? endforeach ?>
+      <?php endforeach ?>
     </div>
 
     <div class="col"></div>
@@ -77,7 +77,7 @@
       width: 2em;
     }
   </style>
-<? endif ?>
+<?php endif ?>
 </main>
 </body>
 </html>
