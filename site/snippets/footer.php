@@ -1,4 +1,4 @@
-<?php if($page->isHomePage()): ?>
+<?php if($page->isHomePage() || $page->template() == 'item'): ?>
 <?php
   $subcats = array_unique(page('work')->children()->visible()->toArray(function($p) {
     return $p->subcategory();
@@ -76,7 +76,15 @@
       display: inline-block;
       width: 2em;
     }
-  </style>
+    .shapes {
+      display: inline-block;
+      width: 2em;
+    }
+    .triangle, .circle {
+      width: auto;
+      height: 0.8em;
+    }
+</style>
 <?php endif ?>
 </main>
 </body>

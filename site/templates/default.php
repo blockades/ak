@@ -32,15 +32,5 @@
       <?php endforeach ?>
     </div>
 
-<style>
-  .shapes {
-    display: inline-block;
-    width: 2em;
-  }
-  .triangle, .circle {
-    width: auto;
-    height: 0.8em;
-  }
-</style>
 
 <?php snippet('footer'); ?>

@@ -6,7 +6,18 @@
     </div>
     <div class="table">
       <div>
-        <span class="category" data-category="<?php echo $page->category() ?>"><?php echo $page->category() ?></span><span class="title"><?php echo $page->title() ?></span><span class="publisher"><?php echo $page->publisher() ?></span><span class="year"><?php echo $page->year() ?></span>
+        <span class="category">
+          <span class="shapes">
+            <?php foreach($page->category()->split(',') as $cat): ?>
+              <?php if($cat == 'research') snippet('circle'); ?>
+              <?php if($cat == 'fieldwork') snippet('triangle'); ?>
+            <?php endforeach ?>
+          </span>
+          <?php echo $page->subcategory() ?>
+        </span>
+        <span class="title"><?php echo $page->title() ?></span>
+        <span class="publisher"><?php echo $page->publisher() ?></span>
+        <span class="year"><?php echo $page->year() ?></span>
       </div>
     </div>
     <div class="text-field">
