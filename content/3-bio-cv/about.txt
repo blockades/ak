@@ -1,0 +1,46 @@
+Title: Bio/CV
+
+----
+
+Born: 1980
+
+----
+
+Location: Sydney, Australia
+
+----
+
+Biography: 
+
+I am a researcher, writer and educator working on sonic communication and geography. Concentrating on shifts in economic and political landscapes, I investigate how these shifts are translated in the sounds that we hear, how we are affected by them, and how we listen and respond. My work is concerned with the ways that sound and communication are shaped by, and shape, our relations to one another, to the architectures and infrastructures around us, to our larger atmospheres and ecologies, and to the forces of power and governance that we experience and intervene in. Through this lens I have written on themes of voice and space, labour and surveillance and experimental politics. I am also developing sound based methods through which to pose broader political and economic questions.
+
+I recently authored the book (link: # text: Experimental Politics and the Making of Worlds), which explores creative activism as a means for opening up channels of communication and finding common sites for contestation. Examining campaigns around living and working conditions, migration and border crossing, and higher education, Experimental Politics and the Making of Worlds argues for creativity within strategies of enacting the worlds we want to live in.
+
+Overlapping the research for Experimental Politics I was involved in the ARC funded project Culture in Transition: Creative Labour and Social Mobilities in the Asian Century, which examined the role of creativity, invention and knowledge production in the new economic order being forged from the region’s capitalist centres, more specifically Shanghai (2010), Kolkata (2011) and Sydney (2012).
+
+----
+
+Cv: 
+
+- 
+  cv_type: Education
+  entries: |
+    2010
+    : Master of Fine Art with distinction, RMIT University
+    
+    2005
+    : Advanced Diploma in Professional Screenwriting, RMIT University
+    
+    2001
+    : Bachelor of Arts in Media Art, RMIT University
+- 
+  cv_type: 'Awards & Grants'
+  entries: |
+    2016
+    : Skills and Development Grant, Creative Victoria International Residency Program, Australia Council for the Arts
+    
+    2014
+    : Australian Postgraduate Award
+    
+    2012
+    : Art Start, Australia Council for the Arts

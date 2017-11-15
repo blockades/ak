@@ -1,0 +1,41 @@
+Title: Tracking and Tracing: Geographies of Logistical Governance and Labouring Bodies
+
+----
+
+Category: LA
+
+----
+
+Publisher: 
+
+----
+
+Year: 2013
+
+----
+
+Details: Kanngieser, A. 2013. ‘Tracking and tracing: geographies of logistical governance and labouring bodies’, Environment and Planning D: Society and Space, 31(4): 594-610.
+
+----
+
+Text: 
+
+(document: kanngieser_tracking-and-tracing.pdf)
+
+##Introduction
+
+> What you don’t need is more information. You need information you can use. <br>Chief Executive of GS1, the standardisation body for barcodes and Radio Frequency Identification (RFID); in Nusca (2011)
+---
+> A ‘political anatomy’, which [is] also a ‘mechanics of power’ [defines] how one may have a hold over others’ bodies, not only so that they may do what one wishes, but so that they may operate as one wishes, with the techniques, the speed and the efficiency that one determines. <br> Michel Foucault (1977, page 138)
+
+At the end of June 2012 Google released a Maps Coordinate tool to follow workers. The phone application was devised to allow employers to monitor the geolocation of workers in real time. Given the voluminous use of Google maps, said to attract an estimated 1 billion users a month, and the growing mobile workforce, estimated to be around 1.3 billion by 2015—over one third of the global workforce—it was unsurprising that Google expressed confidence that its tracking application would be picked up across the industry spectrum (Griffith, 2012). Google is not unfounded in its assertion; the ability to govern the movements of workers has long been the prerogative of employers, especially in the logistics industries. This has grown more acute in terms of both the technologies and the velocities of surveillance and control. A recent white paper entitled “Corporate irresponsibility: Deutsche Post DHL’s global labour practices exposed” (ITF and UNI Global Union, 2012) outlined some of the concerns felt by workers in an industry typified by precarious labour conditions. Not only were violations occurring around freedom of association with union groups and breaches of health and safety laws, employers were adopting stricter monitoring activities including the use of lie detector tests in the warehouses and transport sectors in Colombia, Costa Rica, and South Africa. That inequitable labour conditions are rife along the supply chain is well known and has already been the subject of much discussion (Bonacich, 2005; McClelland, 2012; Sealey, 2009). However, less visible are the technological systems and calculative regimes implemented to ensure the expedient circulation of capital along the chain.
+
+This paper seeks to make visible some of these systems and regimes. While the interests of geographers have been captured by new technological innovations in the realms of (often urban) space and data consolidation (Crampton and Elden, 2006; Rose-Redwood, 2006) and surveillance (Der Derian, 1990; Graham and Wood, 2003), accounts of mobile and digital technologies to manage workers within logistics industries are lacking. This is a critical area for enquiry, not only because of the immediate interplay of technology, surveillance, and labour, but also because of the larger issues around the composition of workplace geographies as spaces of biopolitical control (Crang, 1999; Sharp et al, 2000), as the Google Maps Coordinate tool anticipates. I contribute a crucial perspective that brings the apparatuses of tracking to light and the effects they are having on the everyday experiences, bodies, and velocities of workers. I begin by situating the contemporary context within reconceptualisations of global and national space through market governance. I link these shifts to a rise in both logistical and informational economies. Drawing on literature that explores the connections between technology and lifeworlds, I argue that instrumental to the current logistics paradigm is the technological extension of governance onto the registers of bodily movement and expression. This form of electronic governance, which acts to redefine and normalise behaviour, displaces traditional disciplinary control (Graham and Wood, 2003). By assembling the histories of three of the most ubiquitous technologies found in the logistics industries, I aim to bring attention to some of the advances in sensing and recording techniques conjunctive to the transformations of macrogeographies and microgeographies of supply chain capital and its management.
+
+----
+
+Subcategory: 
+
+----
+
+Biographies: 
