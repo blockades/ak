@@ -11,7 +11,6 @@
   <script src="https://connect.soundcloud.com/sdk/sdk-3.1.2.js"></script>
   <?php echo js('/assets/js/player.js?v=0.1') ?>
   <?php echo js('/assets/js/main.js?v=0.1') ?>
-
 </head>
 
 <body class="home no-transitions">

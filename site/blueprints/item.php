@@ -7,15 +7,27 @@ fields:
   title:
     label: Title
     type:  text
-    width: 1/2
   category:
     label: Category
-    type: text
-    width: 1/4
+    type: checkboxes
+    options:
+      research: Research
+      fieldwork: Fieldwork
+    width: 1/2
   subcategory:
     label: Sub category
-    type: text
-    width: 1/4
+    type: select
+    width: 1/2
+    options:
+      EP: Experimental Politics
+      LA: Labour
+      SS: Sound and Space
+      R: Radio
+      FR: Field Recording
+      S: Sound
+      V: Video
+      LI: Listening
+      CS: Creative Strategies
   details:
     label: Details
     type:  textarea
