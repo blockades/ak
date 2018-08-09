@@ -2,7 +2,7 @@
 
 title: About
 pages: false
-files: false
+files: true
 fields:
   title:
     label: Title
